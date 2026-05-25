@@ -1,0 +1,11 @@
+body{
+    background: black;
+}
+header{
+    background-color: transparent;
+}
+
+img{
+    width: 110px;
+    height: auto;
+}
